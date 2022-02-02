@@ -1,0 +1,27 @@
+{
+  "name": "scraps",
+  "version": "1.0.0",
+  "description": "Two web scrapers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capncrockett/scraps.git"
+  },
+  "keywords": [
+    "tomato",
+    "movie",
+    "smart"
+  ],
+  "author": "capncrockett@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/capncrockett/scraps/issues"
+  },
+  "homepage": "https://github.com/capncrockett/scraps#readme",
+  "dependencies": {
+    "puppeteer": "^13.1.3"
+  }
+}
